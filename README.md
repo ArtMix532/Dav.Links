@@ -1,7 +1,7 @@
 <h1 align="center"> Dav.Links </h1>
 
 <p align="center">
-Desenvolvi apartir do curso da Rocketseat. <br/>
+Desenvolvi a partir do curso da Rocketseat. <br/>
 </p>
 
 <p align="center">
