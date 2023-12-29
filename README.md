@@ -1,7 +1,7 @@
 <h1 align="center"> Dav.Links </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Desenvolvi apartir do curso da Rocketseat. <br/>
 </p>
 
 <p align="center">
@@ -35,4 +35,4 @@ O Dav.Links é um agregador de links para usar como cartão de visitas online.
 
 ---
 
-Feito por Davi Benjamim Guimarâes
+Feito por Davi Benjamim Guimarâes.
