@@ -41,18 +41,18 @@ body * {
 /*container*/
 
 #container {
-    width: 100%;
+    width: 330px;
+   margin: 56px auto 0px;
+   padding: 0 24px;
+   max-width: 588px;
+}
    /* margin-right: auto;
     margin-left: auto;
     margin-top: 56px;
    margin-right: auto;
    margin-bottom: auto;
    margin-left: auto;*/
-   margin: 56px auto 0px;
-   padding: 0 24px;
-   text-align: center;
-   max-width: 588px;
-}
+
 
 /*Profile*/
 
