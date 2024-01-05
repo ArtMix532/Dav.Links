@@ -34,9 +34,6 @@ O Dav.Links é um agregador de links para usar como cartão de visitas online.
 <<<<<<< HEAD
 - [Acesse o projeto finalizado, online]( https://artmix532.github.io/Dav.Links/)
 =======
-- [Acesse o projeto finalizado, online](https://artmix532.github.io/Dav.Links/)
->>>>>>> fb0fe932f05715d1f0009bacc7c2266fadcddb6c
-
 ---
 
 Feito por Davi Benjamim Guimarâes.
