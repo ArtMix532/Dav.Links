@@ -34,7 +34,7 @@ height: 100vh;
 }
 body * {
     font-family: 'Inter', sans-serif;
-    color:var(--text-color) ;
+    color: var(--text-color) ;
     text-align: center;
 }
 
@@ -95,7 +95,7 @@ body * {
     .light #switch button{
     animation: slide-in 0.4s forwards;
     }
-    #switch span{
+    #switch span {
         display: block;
         width: 64px;
         height: 24px;
@@ -119,9 +119,6 @@ body * {
         padding: 24px 0;
     }
     ul li a {
-        width: 360px;
-        margin: auto;
-        border: 1px solid red;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -137,7 +134,7 @@ body * {
     }
     ul li a:hover {
         background: var(--surface-color-hover);
-        border: 1px solid var(--text-color);
+        border: 1.5px solid var(--text-color);
     }
     #social-links{
        display: flex;
@@ -159,12 +156,12 @@ body * {
     }
     #social-links a:hover {
         background: var(--highlight-color);
-        padding: 16px;
 
     }
     footer{
         padding: 24px 0;
         text-align: center;
+        font-size: 14px;
 
     }
     @media (min-width: 700px) {
@@ -185,9 +182,9 @@ body * {
     }
     @keyframes slide-back {
         from {
-            right: 50%;
+            left: 50%;
         }
         to {
-            right: 0;
+            left: 0;
         }
     }
